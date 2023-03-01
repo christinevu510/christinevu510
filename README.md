@@ -7,7 +7,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 - 🎓 Graduate student studying data science at the University of San Diego
 - 🔭 I’m currently working on TBA
 - 🌱 I'm currently learning about cloud computing
-- 👯 I’m looking to collaborate on any data science projects
+- 👯 I’m looking to collaborate on projects related to data engineering and machine learning
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I have a ISTJ-T personality type
 
