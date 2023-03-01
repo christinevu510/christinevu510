@@ -14,12 +14,12 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 &nbsp;
 
 ## 🔧 Languages and Tools <br />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="3.5%"/>] &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="3.5%"/>] &nbsp;
+[<img src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg)" width="3.5%"/>] &nbsp;
 
 
 ## 📫 Connect With Me
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="3.5%"/>](https://github.com/christinevu510) &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/christine-vu-41656517a/)  &nbsp;
 <a href="mailto:christinevu510@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
