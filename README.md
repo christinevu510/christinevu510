@@ -8,7 +8,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 - 🔭 I’m currently working on TBA
 - 🌱 I'm currently learning about cloud computing
 - 👯 I’m looking to collaborate on any data science projects
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: I have a ISTJ-T personality type
 
 &nbsp;
@@ -22,5 +22,9 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 
 Reach me at christinevu510@gmail.com or check out my socials.
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/christine-vu-41656517a/)  &nbsp;
+<a href="mailto:christinevu510@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+  
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="26px" align="center" alt="Follow Christine Vu on GitHub" title="Follow Christine Vu on GitHub"/>](https://github.com/christinevu510) 
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" height="26px" align="center" alt="Follow Christine Vu on LinkedIn" title="Follow Christine Vu on LinkedIn"/>](https://www.linkedin.com/in/christine-vu-41656517a/)
