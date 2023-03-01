@@ -1,4 +1,7 @@
 # 👋 Hello there
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello there
+
 Welcome to my page! My name is Christine and I am from San Jose, CA.
 
 &nbsp;
@@ -7,7 +10,6 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 - 🎓 Graduate student studying data science at the University of San Diego
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on any data science projects
-- 📫 How to reach me: christinevu510@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy graphic designing in my free time
 
