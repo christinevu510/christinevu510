@@ -16,7 +16,7 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />  
 
 
 ## 📫 Connect With Me
