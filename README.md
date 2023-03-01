@@ -1,6 +1,7 @@
 # 👋 Hello there
 Welcome to my page! My name is Christine and I am from San Jose, CA.
 
+&nbsp;
 
 ## :book: About Me
 - 🎓 Graduate student studying data science at the University of San Diego
@@ -10,6 +11,7 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy graphic designing in my free time
 
+&nbsp;
 
 ## 🌐 Languages and Tools
 
