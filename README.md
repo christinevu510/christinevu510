@@ -9,15 +9,12 @@ Welcome to my page! My name is Christine and I am a data science student from Sa
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy graphic designing in my free time
 
-### Connect with me
-[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/christine-vu-41656517a/))
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/christine-vu-41656517a/))
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/83754151/222117783-085e4059-1373-4367-b6b2-5f33a3404a18.png" style="padding-right:10px;" />
 
-</p>
 
 ### Where to Find Me:
 <p><a href="[https://github.com/christinevu510]" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
