@@ -20,4 +20,4 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 
 ## 📫 How to reach me
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 christinevu510@gmail.com. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Christine Vu on LinkedIn" title="Follow Christine Vu on LinkedIn"/>](https://linkedin.com/in/Raymo111](https://www.linkedin.com/in/christine-vu-41656517a/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" width="26px" align="center" alt="Follow Christine Vu on LinkedIn" title="Follow Christine Vu on LinkedIn"/>](https://linkedin.com/in/Raymo111](https://www.linkedin.com/in/christine-vu-41656517a/)
