@@ -19,12 +19,10 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />  
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+***
 
-  ## 📫 Connect With Me
+## 📫 Connect With Me
+
 Reach me at christinevu510@gmail.com or check out my socials.
 
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="26px" align="center" alt="Follow Christine Vu on GitHub" title="Follow Christine Vu on GitHub"/>](https://github.com/christinevu510) 
