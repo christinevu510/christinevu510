@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page! My name is Christine and I am a data science student from San Jose, CA 
-
-<img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://flagsweb.com/Flag_Emoji/United_States_%28USA%29_Flag_Emoji.png)" width="13"/> <b>San Jose, CA</b>
+Welcome to my page! My name is Christine and I am a data science student from San Jose, CA <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://flagsweb.com/Flag_Emoji/United_States_%28USA%29_Flag_Emoji.png)" width="13"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
