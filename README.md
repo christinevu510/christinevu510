@@ -1,4 +1,4 @@
-### 👋 Hello there
+# 👋 Hello there
 Welcome to my page! My name is Christine and I am from San Jose, CA.
 
 ## :book: About Me
