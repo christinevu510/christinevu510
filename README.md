@@ -24,7 +24,7 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 &nbsp;
 &nbsp;
 
-## 📫 Connect With Me
+  ## 📫 Connect With Me
 Reach me at christinevu510@gmail.com or check out my socials.
 
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="26px" align="center" alt="Follow Christine Vu on GitHub" title="Follow Christine Vu on GitHub"/>](https://github.com/christinevu510) 
