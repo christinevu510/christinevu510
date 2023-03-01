@@ -2,15 +2,17 @@
 
 Welcome to my page! My name is Christine and I am from San Jose, CA.
 
+&nbsp;
+
 ## :book: About Me
 - 🎓 Graduate student studying data science at the University of San Diego
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on any data science projects
 - 📫 How to reach me: christinevu510@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy graphic designing in my free time
 
+&nbsp;
 
 ## 🌐 Languages and Tools
 
@@ -18,6 +20,7 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />  
 
+&nbsp;
 
 ## 📫 Connect With Me
 Reach me at christinevu510@gmail.com or check out my socials.
