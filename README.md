@@ -19,12 +19,7 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 <img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />  
 
 
-
-
-
-
 ## 📫 Connect With Me
-
-Reach me at christinevu510@gmail.com. Follow my socials!
-
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" height="26px" align="left" alt="Follow Christine Vu on LinkedIn" title="Follow Chrstine Vu on LinkedIn"/>](https://www.linkedin.com/in/christine-vu-41656517a/)
+Reach me at christinevu510@gmail.com or check out my socials.
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" height="26px" align="left" alt="Follow Christine Vu on LinkedIn" title="Follow Christine Vu on LinkedIn"/>](https://www.linkedin.com/in/christine-vu-41656517a/)
+[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="26px" align="left" alt="Follow Christine Vu on GitHub" title="Follow Christine Vu on GitHub"/>](https://www.linkedin.com/in/christine-vu-41656517a/](https://github.com/christinevu510)
