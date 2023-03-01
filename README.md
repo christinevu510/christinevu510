@@ -20,7 +20,6 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 
 ## 📫 Connect With Me
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="3.5%" align="center" alt="Follow Christine Vu on GitHub" title="Follow Christine Vu on GitHub"/>](https://github.com/christinevu510) &nbsp;
-
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/christine-vu-41656517a/)  &nbsp;
 <a href="mailto:christinevu510@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
