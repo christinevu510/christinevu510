@@ -21,6 +21,8 @@ Welcome to my page! My name is Christine and I am from San Jose, CA.
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ## 📫 Connect With Me
 Reach me at christinevu510@gmail.com or check out my socials.
