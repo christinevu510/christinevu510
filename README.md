@@ -5,7 +5,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 
 ## :book: About Me
 - 🎓 Graduate student studying data science at the University of San Diego
-- 🔭 I’m currently working on TBA
+- 🔭 I’m currently working on a [Diabetes Health Indicators project(https://github.com/ChrisGarciaDS/ADS-508-Team-Final-Project)
 - 🌱 I'm currently learning about cloud computing
 - 👯 I’m looking to collaborate on projects related to data engineering and machine learning
 - 😄 Pronouns: She / Her
