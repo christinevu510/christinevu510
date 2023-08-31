@@ -9,7 +9,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 - 🌱 I'm currently learning about deep learning and machine learning
 - 👯 I’m looking to collaborate on projects related to machine learning
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I have a ISTJ-T personality type
+- ⚡ Fun fact: I have an ISTP-T personality type
 
 &nbsp;
 
