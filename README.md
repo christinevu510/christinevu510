@@ -5,8 +5,8 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 
 ## :book: About Me
 - 🎓 Graduate student studying data science at the University of San Diego
-- 🔭 I’m currently working on a [Predictive Modeling of Online Shopping Intentions project](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions)
-- 🌱 I'm currently learning about deep learning and machine learning
+- 🔭 I’m currently working on a [Web Scraping for Drug Classification project](https://github.com/christinevu510/Web-Scraping-Drug-Classification)
+- 🌱 I'm currently learning about deep learning and text mining
 - 👯 I’m looking to collaborate on projects related to machine learning
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I have an ISTP-T personality type
