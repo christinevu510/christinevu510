@@ -5,7 +5,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 
 ## :book: About Me
 - 🎓 Graduate student studying data science at the University of San Diego
-- 🔭 I’m currently working on a [Airfare Price Prediction project](https://github.com/VSbr22/Capstone).
+- 🔭 I’m currently working on a [Airfare Price Prediction project](https://github.com/VSbr22/Capstone)
 - 🌱 I'm currently learning about deep learning and text mining
 - 👯 I’m looking to collaborate on projects related to machine learning
 - 😄 Pronouns: She / Her
