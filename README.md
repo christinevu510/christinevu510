@@ -13,7 +13,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 &nbsp;
 
 ## 💻 Projects
-- ✈️ [Unraveling the Dynamics of Airfare Price Predictions]()
+- ✈️ [Unraveling the Dynamics of Airfare Price Predictions](https://github.com/christinevu510/Unraveling-the-Dynamics-of-Airfare-Price-Predictions)
 - 💊 [Drug Classification](https://github.com/christinevu510/Drug-Classification)
 - 🛍️ [Predictive Modeling of Online Shopping Intentions](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions)
 - 🔬 [Predictive Modeling of Dermatological Conditions](https://github.com/christinevu510/dermatology-project)
