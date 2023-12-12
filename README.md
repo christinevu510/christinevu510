@@ -14,15 +14,15 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 &nbsp;
 
 ## 💻 Projects
-- [Unraveling the Dynamics of Airfare Price Predictions]()
-- [Drug Classification](https://github.com/christinevu510/Drug-Classification)
-- [Predictive Modeling of Online Shopping Intentions](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions)
-- [Predictive Modeling of Dermatological Conditions](https://github.com/christinevu510/dermatology-project)
-- [Using Health Indicators to Predict Occurrence of Diabetes with AWS](https://github.com/christinevu510/Predict-Diabetes-Cloud)
-- [Supermarket Orders, Invoices, and Sales](https://github.com/christinevu510/Supermarket-Orders-Invoices-and-Sales)
-- [Grocery Store Sales Forecast](https://github.com/christinevu510/Grocery-Store-Forecast)
-- [Predicting Airline Customer Satisfaction Ratings](https://github.com/christinevu510/Predicting-Airline-Customer-Satisfaction-Ratings)
-- [Telecom Churn: Determining the Impacts of Customer Churn on the Telecommunications Industry](https://github.com/christinevu510/Telecom-Churn)
+- ✈️ [Unraveling the Dynamics of Airfare Price Predictions]()
+- 💊 [Drug Classification](https://github.com/christinevu510/Drug-Classification)
+- 🛍️ [Predictive Modeling of Online Shopping Intentions](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions)
+- 🔬 [Predictive Modeling of Dermatological Conditions](https://github.com/christinevu510/dermatology-project)
+- 🏥 [Using Health Indicators to Predict Occurrence of Diabetes with AWS](https://github.com/christinevu510/Predict-Diabetes-Cloud)
+- 🛒 [Supermarket Orders, Invoices, and Sales](https://github.com/christinevu510/Supermarket-Orders-Invoices-and-Sales)
+- 🏪 [Grocery Store Sales Forecast](https://github.com/christinevu510/Grocery-Store-Forecast)
+- ✈️ [Predicting Airline Customer Satisfaction Ratings](https://github.com/christinevu510/Predicting-Airline-Customer-Satisfaction-Ratings)
+- 📡 [Telecom Churn: Determining the Impacts of Customer Churn on the Telecommunications Industry](https://github.com/christinevu510/Telecom-Churn)
 
 &nbsp;
 
