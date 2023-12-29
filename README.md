@@ -4,7 +4,7 @@ Welcome to my page! My name is Christine Vu and I am from San Jose, CA.
 &nbsp;
 
 ## :book: About Me
-- 🎓 Graduate student studying data science at the University of San Diego
+- 🎓 M.S. Applied Data Science from the University of San Diego
 - 🌱 I'm currently learning about deep learning
 - 👯 I’m open to collaborating on machine learning projects within the domains of e-commerce and finance
 - 😄 Pronouns: She / Her
